@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! 👋
 
 ¡Hola! 👋 Soy Marc, un estudiante de Desarrollo de Aplicaciones Multiplataforma, actualmente inmerso en el fascinante mundo de la programación. Este es mi repositorio de GitHub, donde comparto y documento mis proyectos y aprendizajes.
 
