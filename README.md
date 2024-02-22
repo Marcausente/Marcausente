@@ -5,5 +5,14 @@
 ## Acerca de mí
 
 - 🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
-- 💻 Lenguajes de programación que domino: Java, CSS/HTML, SQL y C#.
+- 💻 Lenguajes de programación que utilizo:
+ - Java
+ - CSS/HTML,
+ - SQL
+ - C#
 - 🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
+
+## Contacto
+📧 Correo electrónico: [TuCorreo@dominio.com]
+🐦 Twitter: [@TuUsuarioTwitter]
+¡Gracias por visitar mi repositorio! Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres conectarte. ¡Hagamos cosas asombrosas juntos! 🚀
