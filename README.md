@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Marcausente/Marcausente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Marc, un estudiante de Desarrollo de Aplicaciones Multiplataforma, actualmente inmerso en el fascinante mundo de la programación. Este es mi repositorio de GitHub, donde comparto y documento mis proyectos y aprendizajes.
 
-Here are some ideas to get you started:
+Acerca de mí
+🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
+💻 Lenguajes de programación utilizo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Java
+-CSS/HTML
+-SQL
+-C#
+-Python
+
+🚀 Apasionado por la resolución de problemas y la creación de soluciones innovadoras.
+🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
