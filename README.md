@@ -4,6 +4,6 @@
 
 ## Acerca de mí
 
-🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
-💻 Lenguajes de programación que domino: Java, CSS/HTML, SQL y C#.
-🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
+- 🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
+- 💻 Lenguajes de programación que domino: Java, CSS/HTML, SQL y C#.
+- 🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
