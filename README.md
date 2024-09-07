@@ -1,5 +1,4 @@
-![Banner GIF](![image](https://github.com/user-attachments/assets/4897fc85-b182-43a6-aa5e-7f2c02de9042)
-)
+![Banner GIF]([image](https://github.com/user-attachments/assets/4a7f946c-4392-4df0-b945-c2ec793c5b06))
 
 
 ### ¡Hola! 👋
