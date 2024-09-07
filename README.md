@@ -1,4 +1,5 @@
-![Banner GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsbrb&psig=AOvVaw0d219ORJkplgi0FZB1Z_AI&ust=1725762064953000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjKxujir4gDFQAAAAAdAAAAABAj)
+
+![Uploading 202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif…]()
 
 ### ¡Hola! 👋
 
