@@ -1,5 +1,5 @@
 
-![Uploading 202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif…]()
+![202650321-7f4da361-f98f-4345-8df4-adf352a11322](https://github.com/user-attachments/assets/27a879d4-b9cd-432e-97d9-6eb1e640ff40)
 
 ### ¡Hola! 👋
 
