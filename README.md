@@ -8,7 +8,7 @@
 ## Acerca de mí
 
 - 🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
-- 💻 Lenguajes de programación que utilizo: Java, CSS/HTML, SQL y Python.
+- 💻 Lenguajes de programación que utilizo: Java, PHP, Kotlin, Swift, C#, SQL, Python y CSS/HTML
 - 🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
 
 ## Contacto
