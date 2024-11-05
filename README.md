@@ -33,26 +33,27 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 
 ## TOOLS
 
+## TOOLS
+
 <div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/05bf36ad-918a-43ad-abfe-47c92921a4ca" alt="visual studio code" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/a1840e34-8013-4637-a4d8-43af78d58a86" alt="docker" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/68d1ba0b-9cca-43f2-9161-d75827a546b8" alt="android studio" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/50798dc7-9126-4e61-b32a-02011526037e" alt="xcode" width="80"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/6f37e406-6142-450d-9385-07941153d8a4" alt="jetbrains rider" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/ec74a6be-cbd3-46ba-9355-72d74905c351" alt="jetbrains pycharm" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/97225a20-c17f-4d10-b86c-e674e55d2c5f" alt="jetbrains phpstorm" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a" alt="jetbrains intellij" width="80"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815" alt="jetbrains datagrip" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065" alt="bash" width="80"/></td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/05bf36ad-918a-43ad-abfe-47c92921a4ca" alt="visual studio code" width="80"/>
+  <img src="https://github.com/user-attachments/assets/a1840e34-8013-4637-a4d8-43af78d58a86" alt="docker" width="80"/>
+  <img src="https://github.com/user-attachments/assets/68d1ba0b-9cca-43f2-9161-d75827a546b8" alt="android studio" width="80"/>
+  <img src="https://github.com/user-attachments/assets/50798dc7-9126-4e61-b32a-02011526037e" alt="xcode" width="80"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6f37e406-6142-450d-9385-07941153d8a4" alt="jetbrains rider" width="80"/>
+  <img src="https://github.com/user-attachments/assets/ec74a6be-cbd3-46ba-9355-72d74905c351" alt="jetbrains pycharm" width="80"/>
+  <img src="https://github.com/user-attachments/assets/97225a20-c17f-4d10-b86c-e674e55d2c5f" alt="jetbrains phpstorm" width="80"/>
+  <img src="https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a" alt="jetbrains intellij" width="80"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815" alt="jetbrains datagrip" width="80"/>
+  <img src="https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065" alt="bash" width="80"/>
+</div>
+
 
 
 ## Contact
