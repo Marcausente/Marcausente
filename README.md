@@ -1,6 +1,6 @@
-### ¡Hola! 👋
+### Hello! 👋
 
-¡Hola! 👋 Soy Marc, un estudiante de Desarrollo de Aplicaciones Multiplataforma, actualmente inmerso en el fascinante mundo de la programación. Este es mi repositorio de GitHub, donde comparto y documento mis proyectos y aprendizajes.
+Hi! 👋 I am Marc, a student of Cross-Platform Application Development, currently immersed in the fascinating world of programming. This is my GitHub repository, where I share and document my projects and learnings.
 
 ## USED
 
@@ -22,6 +22,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c69d897a-556b-464b-a564-f01e3eb0aea8" alt="additional" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fb729acd-ccdc-4a91-b2a5-197bdca3bfd7" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/08ef10b1-6a27-42e2-9598-37b0917450c3" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/7f327ae7-5e3c-409d-9930-facd9d37dcce" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/2a8ac0c0-4a3c-4add-bc33-5f55b1c02ddf" alt="additional" width="80"/></td>
@@ -32,24 +33,24 @@
 
 ## TOOLS
 
-![visualstudio_code](https://github.com/user-attachments/assets/05bf36ad-918a-43ad-abfe-47c92921a4ca)
-![docker](https://github.com/user-attachments/assets/a1840e34-8013-4637-a4d8-43af78d58a86)
-![android_studio](https://github.com/user-attachments/assets/68d1ba0b-9cca-43f2-9161-d75827a546b8)
-![xcode](https://github.com/user-attachments/assets/50798dc7-9126-4e61-b32a-02011526037e)
-![jetbrains_rider](https://github.com/user-attachments/assets/6f37e406-6142-450d-9385-07941153d8a4)
-![jetbrains_pycharm](https://github.com/user-attachments/assets/ec74a6be-cbd3-46ba-9355-72d74905c351)
-![jetbrains_phpstorm](https://github.com/user-attachments/assets/97225a20-c17f-4d10-b86c-e674e55d2c5f)
-![jetbrains_intellij](https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a)
-![jetbrains_datagrip](https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815)
-![bash](https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065)
+<div align="center">
 
-## Contacto
-- 📧 Correo electrónico: [marcausente@gmail.com]
+<img src="https://github.com/user-attachments/assets/05bf36ad-918a-43ad-abfe-47c92921a4ca" alt="visual studio code" width="80"/>
+<img src="https://github.com/user-attachments/assets/a1840e34-8013-4637-a4d8-43af78d58a86" alt="docker" width="80"/>
+<img src="https://github.com/user-attachments/assets/68d1ba0b-9cca-43f2-9161-d75827a546b8" alt="android studio" width="80"/>
+<img src="https://github.com/user-attachments/assets/50798dc7-9126-4e61-b32a-02011526037e" alt="xcode" width="80"/>
+<img src="https://github.com/user-attachments/assets/6f37e406-6142-450d-9385-07941153d8a4" alt="jetbrains rider" width="80"/>
+<img src="https://github.com/user-attachments/assets/ec74a6be-cbd3-46ba-9355-72d74905c351" alt="jetbrains pycharm" width="80"/>
+<img src="https://github.com/user-attachments/assets/97225a20-c17f-4d10-b86c-e674e55d2c5f" alt="jetbrains phpstorm" width="80"/>
+<img src="https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a" alt="jetbrains intellij" width="80"/>
+<img src="https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815" alt="jetbrains datagrip" width="80"/>
+<img src="https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065" alt="bash" width="80"/>
+
+</div>
+
+## Contact
+
+- 📧 Email: [marcausente@gmail.com]
 - 🐦 Twitter: @marcausente
 
-¡Gracias por visitar mi repositorio! Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes pregunt
-as, sugerencias o simplemente quieres conectarte. ¡Hagamos cosas asombrosas juntos! 🚀
-
-
-
-
+Thank you for visiting my repository! Feel free to explore my projects and don't hesitate to reach out if you have questions, suggestions, or just want to connect. Let's do amazing things together! 🚀
