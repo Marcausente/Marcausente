@@ -13,7 +13,7 @@
 ## Lenguajes utilizados
 
   
-  ![csharp](https://github.com/user-attachments/assets/a1e750da-6b97-44c9-84db-8625348611d1)   ![java](https://github.com/user-attachments/assets/7b083de8-24aa-46a1-83a1-65f605626489)
+  ![csharp](https://github.com/user-attachments/assets/a1e750da-6b97-44c9-84db-8625348611d1)   ![java](https://github.com/user-attachments/assets/7b083de8-24aa-46a1-83a1-65f605626489) ![php](https://github.com/user-attachments/assets/dfd821d7-16b3-42ba-b8b6-5dd1f8ddcba0) ![python](https://github.com/user-attachments/assets/00a0a736-e24f-4a09-9305-2f3dee4772b0) ![swift](https://github.com/user-attachments/assets/b9687a95-1f01-4fd3-b1f9-f047abd6c95c) ![html](https://github.com/user-attachments/assets/c68d4f93-d7d9-48c1-92d7-672a4bde4626) ![css3](https://github.com/user-attachments/assets/a749fec4-180b-46bd-b6c1-eae728e70d9a)
 
 
 ## Contacto
