@@ -2,20 +2,31 @@
 
 ¡Hola! 👋 Soy Marc, un estudiante de Desarrollo de Aplicaciones Multiplataforma, actualmente inmerso en el fascinante mundo de la programación. Este es mi repositorio de GitHub, donde comparto y documento mis proyectos y aprendizajes.
 
-## Acerca de mí
-
-- 🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
-- 🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
-
 ## USED
 
-  
-  ![csharp](https://github.com/user-attachments/assets/a1e750da-6b97-44c9-84db-8625348611d1)   ![java](https://github.com/user-attachments/assets/7b083de8-24aa-46a1-83a1-65f605626489) ![php](https://github.com/user-attachments/assets/dfd821d7-16b3-42ba-b8b6-5dd1f8ddcba0) ![python](https://github.com/user-attachments/assets/00a0a736-e24f-4a09-9305-2f3dee4772b0) ![swift](https://github.com/user-attachments/assets/b9687a95-1f01-4fd3-b1f9-f047abd6c95c) ![html](https://github.com/user-attachments/assets/c68d4f93-d7d9-48c1-92d7-672a4bde4626) ![css3](https://github.com/user-attachments/assets/a749fec4-180b-46bd-b6c1-eae728e70d9a) ![unity](https://github.com/user-attachments/assets/9377bcda-a67f-4934-85ad-ef645a549779) 
-  
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333746353246462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/c69d897a-556b-464b-a564-f01e3eb0aea8) 
-![68747470733a2f2f![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/fb729acd-ccdc-4a91-b2a5-197bdca3bfd7)
-696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465-2](https://github.com/user-attachments/assets/08ef10b1-6a27-42e2-9598-37b0917450c3)  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/7f327ae7-5e3c-409d-9930-facd9d37dcce) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/2a8ac0c0-4a3c-4add-bc33-5f55b1c02ddf) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/aebef539-8939-4e9b-a719-cf2eebd4de52)
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a1e750da-6b97-44c9-84db-8625348611d1" alt="csharp" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/7b083de8-24aa-46a1-83a1-65f605626489" alt="java" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/dfd821d7-16b3-42ba-b8b6-5dd1f8ddcba0" alt="php" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/00a0a736-e24f-4a09-9305-2f3dee4772b0" alt="python" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b9687a95-1f01-4fd3-b1f9-f047abd6c95c" alt="swift" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c68d4f93-d7d9-48c1-92d7-672a4bde4626" alt="html" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a749fec4-180b-46bd-b6c1-eae728e70d9a" alt="css3" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/9377bcda-a67f-4934-85ad-ef645a549779" alt="unity" width="50"/></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c69d897a-556b-464b-a564-f01e3eb0aea8" alt="additional" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/fb729acd-ccdc-4a91-b2a5-197bdca3bfd7" alt="additional" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/08ef10b1-6a27-42e2-9598-37b0917450c3" alt="additional" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/7f327ae7-5e3c-409d-9930-facd9d37dcce" alt="additional" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2a8ac0c0-4a3c-4add-bc33-5f55b1c02ddf" alt="additional" width="50"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/aebef539-8939-4e9b-a719-cf2eebd4de52" alt="additional" width="50"/></td>
+  </tr>
+</table>
 
 ## Contacto
 - 📧 Correo electrónico: [marcausente@gmail.com]
