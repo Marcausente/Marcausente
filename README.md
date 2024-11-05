@@ -28,11 +28,28 @@
     <td><img src="https://github.com/user-attachments/assets/aebef539-8939-4e9b-a719-cf2eebd4de52" alt="additional" width="80"/></td>
   </tr>
 </table>
-
 </div>
+
+## TOOLS
+
+
 
 ## Contacto
 - 📧 Correo electrónico: [marcausente@gmail.com]
 - 🐦 Twitter: @marcausente
 
-¡Gracias por visitar mi repositorio! Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres conectarte. ¡Hagamos cosas asombrosas juntos! 🚀
+¡Gracias por visitar mi repositorio! Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes pregunt
+as, sugerencias o simplemente quieres conectarte. ¡Hagamos cosas asombrosas juntos! 🚀
+![visualstudio_code](https://github.com/user-attachments/assets/05bf36ad-918a-43ad-abfe-47c92921a4ca)
+![docker](https://github.com/user-attachments/assets/a1840e34-8013-4637-a4d8-43af78d58a86)
+![android_studio](https://github.com/user-attachments/assets/68d1ba0b-9cca-43f2-9161-d75827a546b8)
+![xcode](https://github.com/user-attachments/assets/50798dc7-9126-4e61-b32a-02011526037e)
+![jetbrains_rider](https://github.com/user-attachments/assets/6f37e406-6142-450d-9385-07941153d8a4)
+![jetbrains_pycharm](https://github.com/user-attachments/assets/ec74a6be-cbd3-46ba-9355-72d74905c351)
+![jetbrains_phpstorm](https://github.com/user-attachments/assets/97225a20-c17f-4d10-b86c-e674e55d2c5f)
+![jetbrains_intellij](https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a)
+![jetbrains_datagrip](https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815)
+![bash](https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065)
+
+
+
