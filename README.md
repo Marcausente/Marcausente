@@ -33,8 +33,6 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 
 ## TOOLS
 
-## TOOLS
-
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
@@ -50,13 +48,11 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
       <td><img src="https://github.com/user-attachments/assets/21048440-8885-4a42-a2d1-16235ae7398a" alt="jetbrains intellij" width="80"/></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815" alt="jetbrains datagrip" width="80"/></td>
-      <td><img src="https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065" alt="bash" width="80"/></td>
+      <td colspan="2" style="text-align: center;"><img src="https://github.com/user-attachments/assets/63c924ab-14a6-42af-89d6-173138ec0815" alt="jetbrains datagrip" width="80"/></td>
+      <td colspan="2" style="text-align: center;"><img src="https://github.com/user-attachments/assets/7100662a-8b5f-42e5-9269-22cdd50e8065" alt="bash" width="80"/></td>
     </tr>
   </table>
 </div>
-
-
 
 
 ## Contact
