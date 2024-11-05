@@ -10,7 +10,7 @@
 - 🎓 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma.
 - 💻 Lenguajes de programación que utilizo: Java, PHP, Kotlin, Swift, C#, SQL, Python y CSS/HTML
 - 🌐 Siempre en búsqueda de aprender y mejorar mis habilidades en el desarrollo de software.
-
+https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg
 ## Contacto
 - 📧 Correo electrónico: [marcausente@gmail.com]
 - 🐦 Twitter: @marcausente
