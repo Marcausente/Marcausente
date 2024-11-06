@@ -27,6 +27,7 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
     <td><img src="https://github.com/user-attachments/assets/7f327ae7-5e3c-409d-9930-facd9d37dcce" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/2a8ac0c0-4a3c-4add-bc33-5f55b1c02ddf" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/aebef539-8939-4e9b-a719-cf2eebd4de52" alt="additional" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9c2bf0ea-c3a4-4634-ac0a-abb9218803d2" alt="additional" width="80"/></td>
   </tr>
 </table>
 </div>
