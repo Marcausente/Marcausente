@@ -23,11 +23,11 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 <table style="border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c69d897a-556b-464b-a564-f01e3eb0aea8" alt="additional" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9c2bf0ea-c3a4-4634-ac0a-abb9218803d2" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/08ef10b1-6a27-42e2-9598-37b0917450c3" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/7f327ae7-5e3c-409d-9930-facd9d37dcce" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/2a8ac0c0-4a3c-4add-bc33-5f55b1c02ddf" alt="additional" width="80"/></td>
     <td><img src="https://github.com/user-attachments/assets/aebef539-8939-4e9b-a719-cf2eebd4de52" alt="additional" width="80"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9c2bf0ea-c3a4-4634-ac0a-abb9218803d2" alt="additional" width="80"/></td>
   </tr>
 </table>
 </div>
