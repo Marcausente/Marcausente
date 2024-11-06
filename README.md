@@ -53,12 +53,11 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
   </table>
 </div>
 
-
-
-
 ## Contact
 
 - 📧 Email: [marcausente@gmail.com]
 - 🐦 Twitter: @marcausente
 
 Thank you for visiting my repository! Feel free to explore my projects and don't hesitate to reach out if you have questions, suggestions, or just want to connect. Let's do amazing things together! 🚀
+
+![Github Activity](https://github-readme-stats.vercel.app/api?username=Marcausente&show_icons=true)
