@@ -32,7 +32,6 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 </table>
 </div>
 
----
 
 ## TOOLS
 
@@ -55,7 +54,6 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
   </table>
 </div>
 
----
 
 ## Contact
 
@@ -64,10 +62,7 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 
 ---
 
-<div align="center">
   ![Github Activity](https://github-readme-stats.vercel.app/api?username=Marcausente&show_icons=true&theme=dark)
-</div>
 
----
 
 Thank you for visiting my repository! Feel free to explore my projects and don't hesitate to reach out if you have questions, suggestions, or just want to connect. Let's do amazing things together! 🚀
