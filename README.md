@@ -61,7 +61,6 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Marcausente&theme=default&hide_border=true" alt="Marcausente's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcausente&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Marcausente's GitHub Stats" />
 </div>
 
 ## Contact
