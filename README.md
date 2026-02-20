@@ -57,6 +57,7 @@ Hi! 👋 I am Marc, a student of Cross-Platform Application Development, current
   </table>
 </div>
 
+<img src="https://streak-stats.demolab.com?user=Marcausente&theme=default&hide_border=true" alt="Marcausente's GitHub Stats" />
 
 ## Contact
 
