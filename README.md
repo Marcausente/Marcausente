@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://i.gyazo.com/3809d4b2cd1862ca56ee0fab4755cc70.jpg" alt="Header" />
 </p>
 
 ### Hello! 👋
